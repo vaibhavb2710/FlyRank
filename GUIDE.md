@@ -137,3 +137,4 @@ copy. Check `docs/data-dictionary.md` first so you don't leak the label.
 **Can I put the mentor-provided warehouse release in this repo?**
 No. It stays outside git entirely (CI fails any committed CSV anyway). Work with it locally
 and commit only code, aggregates, and write-ups — see `DATA_USE.md`.
+
